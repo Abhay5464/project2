@@ -1,4 +1,4 @@
 # New Project 
 
 This project was created from local system.
-My name is Abhay Aggarwal.
+Created by Abhay Aggarwal.
